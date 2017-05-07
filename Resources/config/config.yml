@@ -1,0 +1,5 @@
+services:
+  scaytrase.issue_21369.original:
+    class: ScayTrase\Symfony\Issue21369\SampleService
+    arguments:
+    - "bar"
